@@ -1,1 +1,2 @@
 Este es un nuevo documento
+Esto es de la rama "pruebas"
