@@ -1,2 +1,6 @@
 Este es un nuevo documento
+<<<<<<< HEAD
 Esta es una modificación de la rama master
+=======
+Esto es de la rama "pruebas"
+>>>>>>> pruebas
